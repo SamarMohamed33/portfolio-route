@@ -7,7 +7,7 @@ function NavBar() {
    <>
      <nav className="navbar navbar-expand-lg">
   <div className="container py-3">
-    <NavLink className="navbar-brand text-uppercase fw-bolder fs-3" to="/home">START FRAMEWORK</NavLink>
+    <NavLink className="navbar-brand text-uppercase fw-bolder fs-3" to="/portfolio-route">START FRAMEWORK</NavLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon" />
     </button>
