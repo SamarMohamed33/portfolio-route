@@ -1,0 +1,12 @@
+nav {
+  background: #2c3e50 !important;
+}
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  background-color: #1abc9c;
+  border-radius: 10px;
+}

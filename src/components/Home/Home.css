@@ -1,0 +1,9 @@
+header {
+  background-color: #1abc9c;
+  color: white;
+}
+.hLine {
+  height: 4px;
+  width: 60px;
+  background-color: white;
+}
